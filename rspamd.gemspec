@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'An HTTP wrapper for RSPAMD'
   spec.homepage      = 'https://github.com/mailprotector/rspamd-ruby'
   spec.license       = 'MIT'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.3.0')
 
   spec.metadata['allowed_push_host'] = 'https://rubygems.org'
 
